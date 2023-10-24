@@ -7,6 +7,9 @@
 
 Polyalphabetic cipher bekerja dengan mengganti setiap huruf dalam pesan asli dengan satu atau lebih huruf pengganti berdasarkan aturan tertentu. Sebagai contoh, salah satu teknik penyandian polialfabetik yang paling terkenal adalah Cipher Vigenère, yang menggunakan kata kunci sebagai panduan untuk mengganti huruf-huruf dalam pesan. Setiap huruf dalam kata kunci digunakan untuk mengganti huruf dalam pesan, dan jika kata kunci lebih pendek dari pesan, kata kunci akan diulang.
 
+![PA](https://github.com/IlhamMaulanaCakra/Polyalphabetic-Chipper/assets/92771347/63e5d29b-476f-4a87-9578-23bcc087e8e4)
+
+
 berikut kodingan sekaligus input plaintext dan key nya
 
 ```php
