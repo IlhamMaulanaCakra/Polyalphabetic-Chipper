@@ -1,9 +1,8 @@
 # Polyalphabetic-Chipper
 
-Nama    : Ilham Maulana Cakra Dwi Noto
-NIM     : 312110027
-Kelas   : TI.21.A.1
-
+<p>Nama    : Ilham Maulana Cakra Dwi Noto</p>
+<p>NIM     : 312110027</p>
+<p>Kelas   : TI.21.A.1</p>
 <h1>Perkenalan</h1>
 
 Polyalphabetic cipher bekerja dengan mengganti setiap huruf dalam pesan asli dengan satu atau lebih huruf pengganti berdasarkan aturan tertentu. Sebagai contoh, salah satu teknik penyandian polialfabetik yang paling terkenal adalah Cipher Vigenère, yang menggunakan kata kunci sebagai panduan untuk mengganti huruf-huruf dalam pesan. Setiap huruf dalam kata kunci digunakan untuk mengganti huruf dalam pesan, dan jika kata kunci lebih pendek dari pesan, kata kunci akan diulang.
